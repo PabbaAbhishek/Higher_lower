@@ -1,4 +1,4 @@
-# higher_lower
+# Higher_lower
 This is a game run on python
 When you run it on python, it would display two billionaire names and you are allowed to guess who has more wealth.
 All your correct gueses will add 1 point to your score.
