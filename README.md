@@ -4,6 +4,6 @@ When you run it on python, it would display two billionaire names and you are al
 All your correct gueses will add 1 point to your score.
 And when you guess it wrong, you lose.
 After you lose, you can again start the game by following the instructions or quit for good.
-# Prerequisites
+## Prerequisites
 * Python
-# Try to beat the high score of 100
+#### Try to beat the high score of 100
